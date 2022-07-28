@@ -1,0 +1,12 @@
+D:\jonso\Escritorio\C#\CrudPractice\CrudPractice\bin\Debug\CrudPractice.exe.config
+D:\jonso\Escritorio\C#\CrudPractice\CrudPractice\bin\Debug\CrudPractice.exe
+D:\jonso\Escritorio\C#\CrudPractice\CrudPractice\bin\Debug\CrudPractice.pdb
+D:\jonso\Escritorio\C#\CrudPractice\CrudPractice\obj\Debug\CrudPractice.csproj.AssemblyReference.cache
+D:\jonso\Escritorio\C#\CrudPractice\CrudPractice\obj\Debug\CrudPractice.csproj.SuggestedBindingRedirects.cache
+D:\jonso\Escritorio\C#\CrudPractice\CrudPractice\obj\Debug\CrudPractice.Form1.resources
+D:\jonso\Escritorio\C#\CrudPractice\CrudPractice\obj\Debug\CrudPractice.Properties.Resources.resources
+D:\jonso\Escritorio\C#\CrudPractice\CrudPractice\obj\Debug\CrudPractice.csproj.GenerateResource.cache
+D:\jonso\Escritorio\C#\CrudPractice\CrudPractice\obj\Debug\CrudPractice.csproj.CoreCompileInputs.cache
+D:\jonso\Escritorio\C#\CrudPractice\CrudPractice\obj\Debug\CrudPractice.exe
+D:\jonso\Escritorio\C#\CrudPractice\CrudPractice\obj\Debug\CrudPractice.pdb
+D:\jonso\Escritorio\C#\CrudPractice\CrudPractice\obj\Debug\CrudPractice.Form2.resources
